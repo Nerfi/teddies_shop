@@ -10,6 +10,8 @@ gem 'rails', '5.2.2'
 gem 'redis'
 #gem to handle money
 gem  'money-rails'
+#adding stripe. the payment method
+gem 'stripe'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3'
